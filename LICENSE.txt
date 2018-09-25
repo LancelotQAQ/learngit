@@ -1,0 +1,3 @@
+﻿This is a LICENSE file.
+Please use it for learn git and test.
+Thanks for using!
