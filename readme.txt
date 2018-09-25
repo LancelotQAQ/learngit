@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes.
 Now, you can use it on GitHub!
 Create a net branch is quick and simple.
+no fast forward merge.
